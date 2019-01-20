@@ -1,20 +1,24 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-    border: none;
-    border-collapse: separate;
-    background: white;
+	border: none;
+	border-collapse: separate;
+	background: white;
 }
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	/*font-family: Georgia, serif;*/
+	font-family: "Josefin Sans", sans-serif;
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+	/*font-size: 18px;*/
+	/*font-family: "Times New Roman",Georgia,Serif;*/
 	padding-bottom: 8px;
 	margin: 0;
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #F2F2F2;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -22,23 +26,25 @@ body {
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
-    vertical-align: top;
+	vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-    border: none;
-    background: white;
-    text-align: left;
-    vertical-align: top;
+	border: none;
+	background: white;
+	text-align: left;
+	vertical-align: top;
+	/*min-width: 800px;*/
+	/*width: 800px;*/
 }
 
 #layout-menu a {
@@ -47,7 +53,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+	background: #ffffdd;
 }
 
 pre, tt {
@@ -56,20 +62,22 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #0000ff;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px gray dotted;
+	border-bottom: 1px dotted #EF4035;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
-	border-bottom: 1px gray solid;
+	/*color: #022b6d;*/
+	color: #222222;
+	border-bottom: 1px red solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	color: #B31B1B;
+	/*color: #cc0033;*/
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -77,6 +85,7 @@ a:hover {
 }
 
 div.menu-category {
+	font-size: 120%;
 	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
 	padding-top: 0.2em;
@@ -85,6 +94,7 @@ div.menu-category {
 }
 
 div.menu-item {
+	font-size: 115%;
 	padding-left: 16px;
 	text-indent: -16px;
 }
@@ -117,7 +127,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #B31B1B;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -127,20 +137,22 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 165%;
+	/*font-size: 165%;*/
+	font-size: 200%;
 }
 
 h2 {
 	padding-top: 0.8em;
-	font-size: 125%;
+	font-size: 150%;
 }
 
 h2 + h3 {
-    padding-top: 0.2em;
+	padding-top: 0.2em;
 }
 
 h3 {
-	font-size: 110%;
+	/*font-size: 110%;*/
+	font-size: 125%;
 	border-bottom: none;
 }
 
@@ -297,7 +309,10 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-	#layout-menu { display: none; }
+	#layout-menu {
+		display: none;
+	}
+
 }
 
 #fwtitle {
@@ -336,32 +351,46 @@ img.eqwl {
 }
 
 table {
-    border: 2px solid black;
-    border-collapse: collapse;
+	border: 2px solid black;
+	border-collapse: collapse;
 }
 
 td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: center;
-    border: 1px solid gray;
+	padding: 2px;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	text-align: center;
+	border: 1px solid gray;
 }
 
 table + table {
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
+	font-weight: bold;
+	border-bottom: 2px solid black;
 }
 
 img {
-    border: none;
+	border: none;
 }
 
 table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
+	border: none;
+	text-align: left;
+}
+
+img.menu {
+	padding: 0;
+	padding-left: 0.0em;
+	padding-right: 0.0em;
+	padding-bottom: -0.1em;
+	margin: 0;
+	text-align: left;
+	margin-top: -0.8em;
+	padding-top: -0.2em;
+	margin-left: 8px;
+	margin-right: 11px;
+	border: 2px solid #B31B1B;
 }
