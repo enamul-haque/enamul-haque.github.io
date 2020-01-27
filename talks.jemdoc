@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 ==Talks/Slides 
 
+- Hawaii International Conference on System Sciences 2020: Adaptive and Concurrent Garbage Collection for Virtual Machines \[[.\files\HICSS2020.pdf pdf]\]
+
 - Hawaii International Conference on System Sciences 2019: Divergence Based Non-Negative Matrix Factorization for top-N Recommendations \[[.\files\HICSS2019_presentation.pdf pdf]\]
 
 - COE 551: Course project presentation on Adaptive Hybrid Model for Network Intrusion Detection and Comparison Among Machine Learning Algorithms.  \[[http://enamul86.weebly.com/uploads/3/1/3/3/31331981/may21_presentation_201204920_coe551.pdf pdf]\]
