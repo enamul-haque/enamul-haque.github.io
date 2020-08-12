@@ -1,8 +1,12 @@
 # jemdoc: menu{MENU}{index.html}, nofooter, analytics{UA-31107207-1}
 == Md Enamul Haque
 
+
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{190}{230}{https://enamul-haque.github.io}
+{}{img_left}{photos/bio.png}{190}{230}{Md Enamul Haque}
+[https://enamul-haque.github.io Md Enamul Haque], Ph.D.
+({{<a href="http://www.bangladesh.com"><img src="photos/bd.png" width= "10" height="10" alt="BD" /></a>}}) \n
+#{}{img_left}{photos/bio.png}{alt text}{190}{230}{https://enamul-haque.github.io}
 Research Data Scientist\n
 Spencer Center for Vision Research\n
 Stanford University School of Medicine\n

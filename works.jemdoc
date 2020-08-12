@@ -1,42 +1,53 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 ==Work Experience
 
-- *Research Data Scientist* \n
+
+- {{<a href="http://www.grameenphone.com"><img src="photos/stanford_med.png" width= "250" height="60" alt="grameenphone" /></a>}}\n
+*Research Data Scientist* \n
 Spencer Center for Vision Research \n
 *Stanford University School of Medicine* \n
 Palo Alto, CA \n
 June 2020 - Present\n
 
-- *Data Scientist Intern* \n
+- {{<a href="http://www.grameenphone.com"><img src="photos/amfam.jpg" width= "230" height="70" alt="grameenphone" /></a>}}\n
+*Data Scientist Intern* \n
 Data Science and Analytics Lab \n
 *American Family Insurance* \n
 Chicago, Illinois \n
 May 2019 - August 2019\n
 
-- *Research and Teaching Assistant* \n
+- {{<a href="http://www.grameenphone.com"><img src="photos/ul.png" width= "230" height="70" alt="grameenphone" /></a>}}\n
+*Research and Teaching Assistant* \n
 Network Science Research Group \n
 Department of Computer Science \n
 *University of Louisiana at Lafayette* \n
-August 2016 -- Present \n
+August 2016 -- May 2020 \n
 
 
-- *Research and Teaching Assistant* \n
+- {{<a href="http://www.grameenphone.com"><img src="photos/temple.png" width= "230" height="50" alt="grameenphone" /></a>}}\n
+*Research and Teaching Assistant* \n
 Machine Learning Lab \n
 Department of Computer and Information Systems \n
 *Temple University, Philadelphia, Pennsylvania* \n
 August 2015 -- May 2016 \n
 
-- *Research and Teaching Assistant* \n
+
+- {{<a href="http://www.kfupm.edu.sa"><img src="photos/kfupm.png" width= "300" height="70" alt="KFUPM" /></a>}}\n
+*Research and Teaching Assistant* \n
 Wireless Sensor (WISE) Lab \n
 Department of Computer Engineering \n
 *King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia* \n
 Jan 2013 -- May 2015 \n
 
 
-- *Sr. Software Engineer*\n
+
+
+- {{<a href="http://www.grameenphone.com"><img src="photos/gplogo.jpg" width= "251" height="100" alt="grameenphone" /></a>}}\n
+*Sr. Software Engineer*\n
 *Grameenphone Ltd.* \n
 GPHouse, Bashundhara, Dhaka, Bangladesh \n
 Nov 2010 -- Jan 2013 \n
+
 
 - *Software Engineer* \n
 *Xtranet BD Ltd.* \n
@@ -53,7 +64,10 @@ Dec 2008 -- Apr 2010 \n
 American International University Bangladesh, Dhaka, Bangladesh \n
 Spring 2011 \n
 
-- *Network Engineer Intern* \n
+~~~
+{}{img_left}{photos/bdcom.png}{253}{121}{https://www.grameenphone.com}
+*Network Engineer Intern* \n
 *BDCOM Ltd.* \n
 Dhaka, Bangladesh \n
 Fall 2007 \n
+~~~
