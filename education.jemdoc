@@ -1,27 +1,33 @@
 # jemdoc: menu{MENU}{education.html}, nofooter
 ==Education
 
-- Ph.D. in Computer Science\n
+- {{<a href="http://www.louisiana.edu"><img src="photos/ul.png" width= "115" height="35" alt="ull" /></a>}}\n
+Ph.D. in Computer Science\n
 *University of Louisiana at Lafayette* \n
 Louisiana, USA \n
 August 2016 - July 2020 \n
 
-- M.Sc. in Computer Science \n
+- {{<a href="http://www.louisiana.edu"><img src="photos/ul.png" width= "115" height="35" alt="ull" /></a>}}\n
+M.Sc. in Computer Science \n
 *University of Louisiana at Lafayette* \n
 Louisiana, USA \n
 August 2016 - Aug 2018 \n
 
-- Ph.D. in Computer and Information Systems\n
+- {{<a href="http://www.temple.edu"><img src="photos/temple.png" width= "115" height="25" alt="temple" /></a>}}\n
+Ph.D. in Computer and Information Systems\n
 *Temple University* \n
 Philadelphia, PA, USA\n
-August 2015 - July 2016 (Moved to University of Louisiana)\n
+August 2015 - July 2016 (transferred to University of Louisiana)
 
-- M.Sc. in Computer Engineering \n
+
+- {{<a href="http://www.kfupm.edu.sa"><img src="photos/kfupm.png" width= "230" height="50" alt="KFUPM" /></a>}}\n
+M.Sc. in Computer Engineering \n
 *King Fahd University of Petroleum and Minerals* \n
 Dhahran, Saudi Arabia \n
 January 2013 - May 2015 \n
 
-- B.Sc. in Computer Science\n
+- {{<a href="http://www.iutoic-dhaka.edu"><img src="photos/iut.jpg" width= "50" height="50" alt="KFUPM" /></a>}}\n
+B.Sc. in Computer Science\n
 *Islamic University of Technology* \n
 Bangladesh \n
 December 2004 - December 2008 \n
