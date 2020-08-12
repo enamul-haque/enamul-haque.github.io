@@ -20,11 +20,11 @@ US Patent Application No. 15/066,821. \[[https://patentimages.storage.googleapis
 Uthman Baroudi and *Md Enamul Haque*\n
 US Patent Application No. 14/951,473. \[[https://patentimages.storage.googleapis.com/74/45/16/204e52e218e1ff/US20170150417A1.pdf pdf]\]
 
-- *Geographic Location Aware Routing for Wireless ASensor Networks.* \n
+- *Geographic Location Aware Routing for Wireless Sensor Networks.* \n
 Uthman Baroudi and *Md Enamul Haque*\n
 US Patent Application No. 15/605,089. \[[https://patentimages.storage.googleapis.com/4f/ef/27/89dd756bc72373/US20180343602A1.pdf pdf]\]
 
-- *Energy Effecient Routing Scheme Using Leader Election in Ambient Energy Harvesting WSN.* \n
+- *Energy Efficient Routing Scheme Using Leader Election in Ambient Energy Harvesting WSN.* \n
 Uthman Baroudi and *Md Enamul Haque*\n
 US Patent Application /pending/
 
@@ -35,15 +35,12 @@ US Patent Application /pending/
 == Journals
 
 - *Predicting Domain Specific Personal Attitudes and Sentiment*\n
-*Md Enamul Haque*, Eddie Ling, Aminul Islam, and Mehemt Engin Tozal\n
+*Md Enamul Haque*, Eddie Ling, Aminul Islam, and Mehmet Engin Tozal\n
 Accepted in International Journal of Semantic Computing 2020.
 
 - *Dynamic energy efficient routing protocol in wireless sensor networks* \n
 *Md Enamul Haque* and Uthman Baroudi \n
 Springer Wireless Networks, 3715–3733 (2020). \[[https://link.springer.com/article/10.1007%2Fs11276-020-02290-7 pdf]\]
-\n
-Abstract: Currently, IEEE 802.11 standard for ad-hoc wireless mode is inadequate for multi-hop network. Recent efforts for the advancement of 802.11 standards, such as 11e for QoS support and 11n for high data rates (> 100 Mbps), are still limited as they are dependent on the wired infrastructure backbone and single-hop wireless communication. One major challenge in quality-of-service (QoS) oriented routing in wireless ad-hoc networks is to find a route that satisfies multiple constraints including energy consumption minimization, delay, node failure and throughput maximization. In this paper, we propose a novel Dynamic Energy Efficient Routing (DEER) protocol that guarantees message delivery, maximum network lifetime and message flow. DEER uses those specific nodes on the fly which has maximum residual energy above a defined energy level for relaying message from a source to a destination. Our proposed approach has been evaluated using realistic channel model and it demonstrates improved session lifetime and efficient data flow compared to Probabilistic Energy Profile, Efficient Hop Count Routing, Dijkstra and Random/opportunistic algorithms. In addition, DEER can lend itself easily to battery-based sensor networks or energy-harvested based sensor networks.
-
 
 
 - *SCAN: A Sensor Deployment Algorithm in Hazardous Regions via Mobile Actuators.* \n
