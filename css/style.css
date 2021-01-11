@@ -1,0 +1,24 @@
+html {
+    background-color: white;
+}
+
+body p, li {
+    color: black;
+    font-size: 16px;
+}
+
+/*body {
+    font-family: Cas, "EB Garamond", Georgia, "Times New Roman", serif
+}*/
+
+body{
+	background-color: cream;
+  	font-family:Times;
+}
+.row:not(#publications) a {
+    text-decoration: underline;
+}
+
+.image-link {
+    text-decoration: none !important;
+}
