@@ -1,0 +1,40 @@
+html {
+    background-color: white;
+}
+
+body p, li {
+    color: black;
+    font-size: 16px;
+}
+
+/*body {
+    font-family: Cas, "EB Garamond", Georgia, "Times New Roman", serif
+}*/
+/*div {
+  text-align: justify;
+  text-justify: inter-word;
+}*/
+
+body{
+	background-color: cream;
+  	font-family: Times;
+}
+.row:not(#publications) a {
+    text-decoration: underline;
+}
+
+.image-link {
+    text-decoration: none !important;
+}
+
+body {
+  font-family: Times;
+  box-sizing: border-box;
+}
+.container-fluid{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: #FFF;
+}
